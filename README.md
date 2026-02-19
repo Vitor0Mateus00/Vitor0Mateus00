@@ -1,33 +1,105 @@
-<h1 align = "center" >Hello World!</h1>
+<div align="center">
 
+![Galaxy](./galaxy.svg)
 
-<div align = "center" >
-  
-  <a href="https://github.com/Vitor0Mateus00">  
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitor0Mateus00&layout=compact&langs_count=7&theme=dracula"/>
-    
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Platform+%26+Software+Engineer+%7C+SRE+%7C+DevOps;OpenTelemetry+Collector+Open+Source+Contributor+🚀;Building+observability+pipelines+across+the+universe+🌌)](https://git.io/typing-svg)
+
 </div>
-  
-  
-<div align = "center" style="display: inline_block"><br>  
-  
-  <img align="center" alt="Vitu-Node" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Vitu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Vitu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
-  <img align="center" alt="Vitu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitu-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vitu-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
-  <img align="center" alt="Vitu-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/unity/unity-original.svg">   
-  <img align="center" alt="Vitu-Ps" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/photoshop/photoshop-line.svg"> 
-  
+
+---
+
+<div align="center">
+
+## 🌌 About Me
+
 </div>
-  
-  <br>
-  
-  <div align = "center" >   
- 	 
-  <a href = "mailto:vitor0mateus00@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/v%C3%ADtormateus/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+```yaml
+name: Vitor Mateus
+location: Brazil 🇧🇷
+role: Platform & Software Engineer | SRE | DevOps
+
+focus:
+  - Observability & Monitoring Pipelines
+  - Cloud Native Infrastructure
+  - SRE practices & Incident Management
+  - Open Source Contributions
+
+certifications:
+  - PCEP — Python Certified Entry Professional
+  - Oracle Cloud Infrastructure (OCI)
+  - OCI AI Foundations
+```
+
+---
+
+<div align="center">
+
+## 🛸 Tech Universe
+
+**🔭 Observability**
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Alertmanager](https://img.shields.io/badge/Alertmanager-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+**🚀 Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
+**☸️ Cloud & Infra**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+**⚙️ CI/CD & GitOps**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 GitHub Stats
+
+[![Vitor's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vitor0Mateus00&theme=tokyonight)](https://github.com/Vitor0Mateus00)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vitor0Mateus00&theme=tokyonight)](https://github.com/Vitor0Mateus00)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vitor0Mateus00&theme=tokyonight)](https://github.com/Vitor0Mateus00)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vitor0Mateus00&theme=tokyonight)](https://github.com/Vitor0Mateus00)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vitor0Mateus00&theme=tokyonight&utcOffset=-3)](https://github.com/Vitor0Mateus00)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🪐 Find Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor0mateus00)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Vitor0Mateus00)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Vitor0Mateus00&color=a78bfa&style=for-the-badge&label=VISITORS+FROM+THE+COSMOS"/>
+
+*"The universe is under no obligation to make sense to you." — Neil deGrasse Tyson*
+
 </div>
